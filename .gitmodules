@@ -1,0 +1,3 @@
+[submodule "android/SensorNetwork"]
+	path = android/SensorNetwork
+	url = git@github.com:jscrobinson/android-sensor-network.git
